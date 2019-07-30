@@ -1,0 +1,2 @@
+Dependencies : GLEW and GLFW
+Type "make simulate" on cmd to build the code and then run the executable created with the name "./simulate"
