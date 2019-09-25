@@ -7,5 +7,5 @@ Overview
 
 Config File Parameters:
   + Sample simulation videos corresponding to two different config is uploaded in sample folder.
-  + Needs to follow the same format as given in sample configs in sample folder.
+  + Config files needs to follow the same format as given in sample configs in sample folder.
   + All the parameters are self explanatory.
