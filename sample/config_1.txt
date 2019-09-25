@@ -1,0 +1,51 @@
+#Number of vehicles = 4
+#RUN TIME = 150
+
+#Road Parameters
+Road_length = 850
+Road_width = 3
+
+#vehicles config
+type = bike
+width = 30
+length = 60
+Max_Velocity = 7
+acceleration = 0.2
+probability = 0.5
+color = grey
+
+type = bus
+width = 70
+length = 150
+Max_Velocity = 6
+acceleration = 0.05
+probability = 0.2
+color = black
+
+type = car
+width = 50
+length = 100
+Max_Velocity = 10
+acceleration = 0.08
+probability = 0.3
+color = red
+
+type = truck
+width = 60
+length = 200
+Max_Velocity = 5
+acceleration = 0.05
+probability = 0.3
+color = green
+
+#Traffic Config
+Entering_frequency = 0.08
+overtake_probability = 0.8
+
+#Traffic Control
+1 35 4000
+2 160 3000
+3 25 2100
+4 155 2000
+1 55 200
+2 160 100
